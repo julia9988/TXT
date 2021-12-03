@@ -1,0 +1,9 @@
+Learned how to use such programmes and tools:
+1. Git bush.
+2. Git hub.
+3. Fiddler, Postman.
+4. Charles.
+5. Dev tools.
+6. SQL
+7. Jmeter
+8. Python.
